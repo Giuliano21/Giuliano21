@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering student from Polytechnic of Bari
+My name is Giuliano Capitelli and I am a student of Computer and Automation Engineering at the Polytechnic University of Bari. 
 
 
 ## 🌐 Socials:
@@ -12,4 +12,3 @@ I'm a Computer Engineering student from Polytechnic of Bari
 ![](https://streak-stats.demolab.com/?user=Giuliano21&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Giuliano21&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
